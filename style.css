@@ -276,6 +276,17 @@ html{
     border : 2px solid black;
 }
 
+@media (max-width : 70.375rem){
+    .yourTasks_container{
+        width : 70rem
+    }
+}
+
+@media (max-width : 52.75rem){
+    .arrow-right{
+        display: none;
+    }
+}
 
 /*-------delete page--------*/
 .delete_container{
