@@ -283,6 +283,9 @@ html{
 }
 
 @media (max-width : 52.75rem){
+    .yourTasks_container{
+        width : 50rem
+    }
     .arrow-right{
         display: none;
     }
